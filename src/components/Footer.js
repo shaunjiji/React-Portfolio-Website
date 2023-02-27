@@ -1,5 +1,6 @@
 import React from "react";
 import LinkedInIcon from "@material-ui/icons";
+import "..styles/Footer.css";
 
 function Footer() {
   return (
